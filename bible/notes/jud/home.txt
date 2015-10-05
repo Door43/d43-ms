@@ -1,0 +1,8 @@
+====== Jude Links ======
+
+  * [[:ms:ulb:ep:65-jud.usfm|Full ULB text of Jude]]
+  * [[:ms:udb:ep:65-jud.usfm|Full UDB text of Jude]]
+  * [[:ms:bible:admin-reports:notes-team-admin:jud|Notes: Jude Team Admin]]
+  * [[:ms:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:jud:01 -title -naturalOrder -exclude:home -textPages="Jude" -nbCol=2>

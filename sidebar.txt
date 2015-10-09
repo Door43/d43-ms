@@ -9,17 +9,12 @@
 
   * [[ms:obs|Open Bible Stories (ms)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-ms|d43-ms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ms/archive/master.zip|d43-ms.zip]]
 
 **Recent Changes**
 {{changes>ns = ms}}
-
-**Latest Status**
-{{page>en:uwadmin:ms:obs:status}}
-
 
 **Language Information**
 

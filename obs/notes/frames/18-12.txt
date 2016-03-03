@@ -8,7 +8,7 @@ All of the **kings** and most of the people of the **kingdom of Israel worshiped
 
 
   * **[[:ms:obe:other:king]]**
-  * **[[:ms:obe:other:kingdom-of-israel]]**
+  * **[[:ms:obe:other:kingdomofisrael]]**
   * **[[:ms:obe:kt:worship]]**
   * **[[:ms:obe:other:idol]]**
   * **[[:ms:obe:other:sacrifice]]**

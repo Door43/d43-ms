@@ -1,10 +1,10 @@
-====== Complete List of Important Terms - Malaysian ======
+====== Complete List of translationWords- Malaysian ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ms:obe:kt:home]]
-  * [[:ms:obe:other:home]]
+  * [[:ms:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ms:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages ms:obe -r -title -exclude:home -textPages="">
